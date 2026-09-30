@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vergara;Sergio;;;
+FN:Sergio Vergara
+ORG:Velageo
+TITLE:Ingeniero Geotecnico Senior, Cofundador de Velageo
+TEL;TYPE=CELL,VOICE:+56988238304
+EMAIL;TYPE=INTERNET,WORK:sergio.vergara@velageo.cl
+ADR;TYPE=WORK:;;;Santiago;;;Chile
+URL;TYPE=WORK:https://velageo.cl
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/sergio-vergara-sarmiento-44714b40
+URL;TYPE=LinkedInCompany:https://www.linkedin.com/company/velageo
+END:VCARD

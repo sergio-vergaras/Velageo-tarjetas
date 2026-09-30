@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Latorre;Benjamin;;;
+FN:Benjamin Latorre
+ORG:Velageo
+TITLE:Ingeniero Geotecnico, Cofundador de Velageo
+TEL;TYPE=CELL,VOICE:+56998148792
+EMAIL;TYPE=INTERNET,WORK:benjamin.latorre@velageo.cl
+ADR;TYPE=WORK:;;;Santiago;;;Chile
+URL;TYPE=WORK:https://velageo.cl
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/benjaminlatorre
+URL;TYPE=LinkedInCompany:https://www.linkedin.com/company/velageo
+END:VCARD
